@@ -1,0 +1,8 @@
+{
+  "name": "basic-nodejs",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:almeidajr/basic-nodejs.git",
+  "author": "José Rogério de Almeida Júnior <almeidajr.vr@gmail.com>",
+  "license": "MIT"
+}
